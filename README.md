@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak0byte" alt="deepak0byte" /></a> </p>
 
-- 🌱 I’m currently learning **some Web development frameworks.**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
