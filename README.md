@@ -5,7 +5,7 @@
                 src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
                 alt="" height="35px">there<span style="font-family: 'Inter', sans-serif;font-weight:normal;">, I am
                 Deepak Kumar</span></h1>
-<h2 style="font-family: 'Inter', sans-serif;font-weight:inherit;">🙋‍♂️About Me:</h2>
+<h2 style="font-family: 'Inter', sans-serif;font-weight:inherit;">🙋‍♂️About Me</h2>
 <p>I am a second-year student at IIT BHU. I am currently enrolled in the mechanical engineering program. I am
         interested in Full Stack Web Development and currently studying NodeJS for back-end development. I would like to
         contribute to open-source projects. One of my hobbies is playing cricket.</p>
@@ -16,11 +16,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                         src="https://github-profile-trophy.vercel.app/?username=deepak0byte&theme=dracula" alt="deepak0byte" /></a>
 </p>
-<h3 align="left" style="font-family: 'Inter', sans-serif;">My Profiles:</h3>
+<h3 align="left" style="font-family: 'Inter', sans-serif;">👨‍💻My Profiles</h3>
 <p align="left">
         <a href="https://linkedin.com/in/deepak-kumar-849bbb209/" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="deepak-kumar-849bbb209/" height="30" width="40" /></a>
+         <a href="https://www.leetcode.com/deepak_byte" target="blank"><img align="center"
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+                        alt="deepak_byte" height="30" width="40" /></a>
         <a href="https://www.codechef.com/users/deepak035" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak035"
                         height="30" width="40" /></a>
@@ -35,7 +38,7 @@
                         alt="deepak0byte" height="30" width="40" /></a>
 </p>
 
-<h3 align="left" style="font-family: 'Inter', sans-serif;">Languages and Tools:</h3>
+<h3 align="left" style="font-family: 'Inter', sans-serif;">🤖Languages and Tools</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                         alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/"
