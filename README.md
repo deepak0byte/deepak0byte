@@ -6,7 +6,7 @@
                 alt="" height="35px">there<span style="font-family: 'Inter', sans-serif;font-weight:normal;">, I am
                 Deepak Kumar</span></h1>
 <h2 style="font-family: 'Inter', sans-serif;font-weight:inherit;">🙋‍♂️About Me:</h2>
-<p>Hello, I am a second-year student at IIT BHU. I am currently enrolled in the mechanical engineering program. I am
+<p>I am a second-year student at IIT BHU. I am currently enrolled in the mechanical engineering program. I am
         interested in Full Stack Web Development and currently studying NodeJS for back-end development. I would like to
         contribute to open-source projects. One of my hobbies is playing cricket.</p>
 <p align="left"> <img
