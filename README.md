@@ -1,10 +1,10 @@
+<h1 align="center" style="font-family:'Scheherazade New', serif;">Hi <img
+                src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
+                alt="" height="35px">there<span style="font-family: 'Inter', sans-serif;font-weight:normal;">, I'm
+                Deepak Kumar</span></h1>
+                
 <p align="center" style="margin: 20px;"><img src="https://miro.medium.com/max/1280/1*rtGzByVrKWt1ZjzyUN61lg.gif" alt="" height="200px"></p>
 <!-- <p><img src="https://www.therelicans.com/images/L4t3ZiNZK7oKHXzn2bNAdEC8OOmntV-cSNw21ykWVVs/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvaWN4/aXBmZW9hdXFmZWhn/c3F3cnouZ2lm" alt=""height="100px"></p> -->
-
-<h1 align="left" style="font-family:'Scheherazade New', serif;">Hi <img
-                src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
-                alt="" height="35px">there<span style="font-family: 'Inter', sans-serif;font-weight:normal;">, I am
-                Deepak Kumar</span></h1>
 <h2 style="font-family: 'Inter', sans-serif;font-weight:inherit;">🙋‍♂️About Me</h2>
 <p>I am a second-year student at IIT BHU. I am currently enrolled in the mechanical engineering program. I am
         interested in Full Stack Web Development and currently studying NodeJS for back-end development. I would like to
@@ -16,6 +16,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                         src="https://github-profile-trophy.vercel.app/?username=deepak0byte&theme=dracula" alt="deepak0byte" /></a>
 </p>
+
+‣ 🔭 I’m currently working on front-end development projects.
+
+‣ 🌱 I’m currently learning DSA and back-end Development.
+
+‣ 👯 I’m looking to collaborate on web dev projects.
+
+‣ 📫 How to reach me deepak.kumar.mec20@itbhu.ac.in
+
+‣ ⚡ Fun fact I love playing cricket...
+
 <h3 align="left" style="font-family: 'Inter', sans-serif;">👨‍💻My Profiles</h3>
 <p align="left">
         <a href="https://linkedin.com/in/deepak-kumar-849bbb209/" target="blank"><img align="center"
