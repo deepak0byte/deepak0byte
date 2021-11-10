@@ -47,6 +47,8 @@
         <a href="https://auth.geeksforgeeks.org/user/deepak0byte" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
                         alt="deepak0byte" height="30" width="40" /></a>
+<a href="https://dev.to/deepak0byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deepak0byte" height="30" width="40" /></a>
+
 </p>
 <br>
 <p align="left"><img
