@@ -32,10 +32,10 @@
         <a href="https://linkedin.com/in/deepak-kumar-849bbb209/" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="deepak-kumar-849bbb209/" height="30" width="40" /></a>
-         <a href="https://www.leetcode.com/deepak_byte" target="blank"><img align="center"
+         <a href="https://www.leetcode.com/crypto_byte" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                         alt="deepak_byte" height="30" width="40" /></a>
-        <a href="https://www.codechef.com/users/deepak035" target="blank"><img align="center"
+        <a href="https://www.codechef.com/users/crypto_byte" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepak035"
                         height="30" width="40" /></a>
         <a href="https://www.hackerrank.com/deepak0byte" target="blank"><img align="center"
