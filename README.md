@@ -3,7 +3,7 @@
                 alt="" height="35px">there<span style="font-family: 'Inter', sans-serif;font-weight:normal;">, I'm
                 <a href="https://you-know-deepak.netlify.app/" target="_blank">Deepak Kumar</a></span></h1>
                 
-<p align="center" style="margin: 20px;"><img src="https://miro.medium.com/max/1280/1*rtGzByVrKWt1ZjzyUN61lg.gif" alt="" height="200px"></p>
+<p align="center" style="margin: 20px;"><img src="https://c.tenor.com/FABadXdQ65MAAAAC/hi-hello.gif" alt="" height="200px"></p>
 <!-- <p><img src="https://www.therelicans.com/images/L4t3ZiNZK7oKHXzn2bNAdEC8OOmntV-cSNw21ykWVVs/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvaWN4/aXBmZW9hdXFmZWhn/c3F3cnouZ2lm" alt=""height="100px"></p> -->
 <h2 style="font-family: 'Inter', sans-serif;font-weight:inherit;">🙋‍♂️About Me</h2>
 <p>I am a second-year student at IIT BHU. I am currently enrolled in the mechanical engineering program. I am
