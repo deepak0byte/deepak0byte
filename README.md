@@ -31,10 +31,10 @@
 
 <h3 align="left" style="font-family: 'Inter', sans-serif;">👨‍💻My Profiles</h3>
 <p align="left">
-        <a href="https://linkedin.com/in/deepak-kumar-849bbb209/" target="blank"><img align="center"
+        <a href="https://linkedin.com/in/imdeepak23/" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="deepak-kumar-849bbb209/" height="30" width="40" /></a>
-         <a href="https://www.leetcode.com/deepak-23" target="blank"><img align="center"
+         <a href="https://www.leetcode.com/itz_deepak09" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
                         alt="deepak_byte" height="30" width="40" /></a>
         <a href="https://www.codechef.com/users/crypto_byte" target="blank"><img align="center"
@@ -43,7 +43,7 @@
         <a href="https://www.hackerrank.com/deepak0byte" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                         alt="deepak0byte" height="30" width="40" /></a>
-        <a href="https://codeforces.com/profile/deepak0byte" target="blank"><img align="center"
+        <a href="https://codeforces.com/profile/itz_deepak23" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="deepak0byte"
                         height="30" width="40" /></a>
         <a href="https://auth.geeksforgeeks.org/user/deepak0byte" target="blank"><img align="center"
