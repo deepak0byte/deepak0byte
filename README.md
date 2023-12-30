@@ -8,9 +8,12 @@
 <p align="center" style="margin: 20px;"><img src="https://c.tenor.com/FABadXdQ65MAAAAC/hi-hello.gif" alt="" height="200px"></p>
 <!-- <p><img src="https://www.therelicans.com/images/L4t3ZiNZK7oKHXzn2bNAdEC8OOmntV-cSNw21ykWVVs/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvaWN4/aXBmZW9hdXFmZWhn/c3F3cnouZ2lm" alt=""height="100px"></p> -->
 <h2 style="font-family: 'Inter', sans-serif;font-weight:inherit;">🙋‍♂️About Me</h2>
-<p>I am a third-year student at IIT BHU. I am currently enrolled in the mechanical engineering program. I am
-        interested in Full Stack Web Development and currently studying NodeJS for back-end development. I would like to
-        contribute to open-source projects. One of my hobbies is playing cricket.</p>
+<p>I am a Mechanical Engineering graduate from IIT (BHU), Varanasi. I have expertise in C, C++, and Python, as well as experience in web development using frameworks such as Django Rest Framework. My technical proficiency extends to technologies like HTML, CSS, JavaScript, Django and SQL.
+During my internship at Ambitio, I developed RESTful APIs for an account aggregation platform using the Django-REST framework to provide registration functionality for users. I added multiple bank accounts for money transfers and incorporated JWT, reinforcing token-based authentication, and using Bcrypt to encrypt passwords.
+In addition to my coding skills, I have completed projects such as "Algorithm Visualizers", "Django Poll Application" and "Secure Voting System" demonstrating my ability to solve problems and optimize processes.
+Besides my technical skills, I am passionate about data structures, algorithms, competitive programming, computer networking, and operating systems.
+In the Google KickStart 2022 Round C, I achieved a Global Rank of 684. I am an active member of other extracurricular activities, including sports and knowledge competitions.
+My passion for technology and innovation drives me to seek opportunities at the intersection of these fields.</p></p>
 <p align="left"> <img
                 src="https://komarev.com/ghpvc/?username=deepak0byte&label=Profile%20views&color=4DD20E&style=flat"
                 alt="deepak0byte" /> </p>
