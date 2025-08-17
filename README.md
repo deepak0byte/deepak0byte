@@ -9,7 +9,7 @@
                 alt="deepak0byte" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                        src="![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&token=${{ secrets.GITHUB_TOKEN }})" alt="deepak0byte" /></a>
+                        src="https://github-profile-trophy.vercel.app/?username=deepak0byte&theme=darkhub" alt="deepak0byte" /></a>
 </p>
 
 <h3 align="left" style="font-family: 'Inter', sans-serif;">👨‍💻My Profiles</h3>
