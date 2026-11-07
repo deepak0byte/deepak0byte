@@ -3,7 +3,6 @@
 
 [![Deepak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak0byte&theme=react-dark)](https://github.com/deepak0byte/github-readme-activity-graph)
 
-<!-- <p><img src="https://www.therelicans.com/images/L4t3ZiNZK7oKHXzn2bNAdEC8OOmntV-cSNw21ykWVVs/w:880/mb:500000/aHR0cHM6Ly9kZXYt/dG8tdXBsb2Fkcy5z/My5hbWF6b25hd3Mu/Y29tL3VwbG9hZHMv/YXJ0aWNsZXMvaWN4/aXBmZW9hdXFmZWhn/c3F3cnouZ2lm" alt=""height="100px"></p> -->
 <p align="left"> <img
                 src="https://komarev.com/ghpvc/?username=deepak0byte&label=Profile%20views&color=4DD20E&style=flat"
                 alt="deepak0byte" /> </p>
